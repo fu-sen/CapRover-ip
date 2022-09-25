@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 2,
+  "dockerfileLines": [
+                        "FROM caddy:alpine",
+                        "COPY ./Caddyfile /etc/caddy/Caddyfile"
+                    ]
+}
