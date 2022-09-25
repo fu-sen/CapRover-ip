@@ -1,4 +1,4 @@
-## Secure CapRover server IP address lookup
+## Hide the existence of CapRover by referencing the IP address
 
 [CapRover](https://caprover.com/)
 
