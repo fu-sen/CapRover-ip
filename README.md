@@ -2,11 +2,11 @@
 
 [CapRover](https://caprover.com/)
 
-Outputs CapRover-specific HTML when referring to the IP address from a browser on the server on which CapRover is installed. It exposes the fact that CapRover is installed on the server, and can be the source of further probes within the server.
+Outputs CapRover-specific HTML when referring to the IP address from a browser on the server on which CapRover is installed. It exposes the fact that CapRover is installed on the server, and It will be searched to find the CapRover on that server.
 
 By assigning this simple app to an IP address, it will generate a blank HTML or TLS (SSL) error when browsed by IP address. It cannot verify the presence of the CapRover and keeps the server safe.
 
-powered by [Caddy](https://caddyserver.com/)
+Powered by [Caddy](https://caddyserver.com/)
 
 ## Usage
 
